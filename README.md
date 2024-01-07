@@ -14,6 +14,7 @@ git clone ....
 cd ~/.dotfiles
 brew bundle install
 ```
+## Setup Configurations
 
 ### Stow config
 ```bash
