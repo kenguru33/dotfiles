@@ -10,7 +10,7 @@
 ### Install packages
 ```bash
 brew install git
-git clone https://github.com/tmux-plugins/tpm.git ~/.dotfiles
+https://github.com/kenguru33/dotfiles.git ~/.dotfiles
 cd ~/.dotfiles
 brew bundle install
 ```
